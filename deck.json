@@ -10,7 +10,9 @@
             "dyn": 0,
             "extendNew": 0,
             "extendRev": 0,
-            "media_files": [],
+            "media_files": [
+                "paste-21f79461b5a65f92d2d2e85b2d43e6bc66259dee.jpg"
+            ],
             "name": "Aozora",
             "notes": [
                 {
@@ -29,6 +31,21 @@
                     "tags": [
                         "test"
                     ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "double test",
+                        "",
+                        "double test",
+                        "",
+                        "<img src=\"paste-21f79461b5a65f92d2d2e85b2d43e6bc66259dee.jpg\">",
+                        "",
+                        ""
+                    ],
+                    "guid": "K}G(>`D)L2",
+                    "note_model_uuid": "bd4936b5-46f8-11ec-8d74-f81a670e3231",
+                    "tags": []
                 }
             ]
         }
